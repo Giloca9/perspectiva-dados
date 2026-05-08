@@ -12,6 +12,7 @@ dependencies = [
     "notebook>=7.5.5",
     "numpy>=2.2.6",
     "pandas>=2.3.3",
+    "plotly>=6.7.0",
     "scikit-learn>=1.7.2",
     "tqdm>=4.67.3",
     "unidecode>=1.4.0",
